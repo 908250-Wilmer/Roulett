@@ -10,7 +10,7 @@ if (inputText == "red")
 } else if (inputText == "black")
 {
     next = new Random();
-} else (inputText == "color") 
+} else if (inputText == "color") 
 {
     Console.WriteLine("Wrong color, enter the colors red or black if you want to play the game");
 }
