@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Roulett": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
